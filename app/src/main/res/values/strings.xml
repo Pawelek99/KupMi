@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KupMi</string>
+    <string name="lists">Lists</string>
+    <string name="profile">Profile</string>
+    <string name="add_item">Add item</string>
+    <string name="add">Add</string>
+</resources>
